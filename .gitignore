@@ -1,0 +1,6 @@
+Dockerfile
+compose.yaml
+nginx.conf
+.dockerignore
+vorschau-desktop.jpg
+vorschau-mobil.jpg

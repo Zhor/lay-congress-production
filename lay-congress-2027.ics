@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LAY//Congress 2027//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:lay-congress-2027-20270311@lay-congress.de
+DTSTAMP:20260920T134014Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270315
+SUMMARY:LAY Congress 2027
+LOCATION:Ev. Jugendbildungs- und Begegnungsstätte Hirschluch\, Hirschluch
+  1\, 15859 Storkow
+DESCRIPTION:Motto und Referenten werden später bekannt gegeben.\nDie Anmel
+ dung ist noch nicht geöffnet. Weitere Details folgen.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
